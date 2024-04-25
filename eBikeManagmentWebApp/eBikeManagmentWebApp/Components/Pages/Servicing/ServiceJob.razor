@@ -1,0 +1,125 @@
+﻿@page "/servicepart"
+@rendermode InteractiveServer
+
+
+<PageTitle>Service Orders</PageTitle>
+
+<article>
+    <div class="serviceItemsArea" style=" display: flex; flex-direction:column;">
+
+        <div style="margin-left:10px;display:flex;flex-direction:column;align-items:center;">
+            <MudText Typo="Typo.h5" GutterBottom="true">Servicing : @ServiceForVINLabel</MudText>
+        </div>
+        <div style="display:flex;flex-direction:row; align-items:center; width: 100%;">
+            <div style="display:flex;flex-direction:column; width: 100%;">
+                <div style="display: flex;   gap: 1rem;">
+                    <select @bind=selectedStatus @bind:after=UpdateStatus>
+                        <option value="X">--Choose Status--</option>
+                        <option value="I">Vehicle In</option>
+                        <option value="S">Vehicle Started</option>
+                        <option value="D">Vehicle Done</option>
+                    </select>
+                    <div style="display: flex; align-items: center; gap: 1rem;">
+                        <h2>Hours</h2>
+                        <h3>@projectHours</h3>
+                    </div>
+                </div>
+                <hr style="width: 100%; height: 3px; color:dimgray" />
+            </div>
+        </div>
+        <div style="margin-left:30px;display:flex;flex-direction:row; align-items:center;">
+            <MudText Typo="Typo.h5" GutterBottom="true">Part</MudText>
+            <select style="margin-left: 1rem;" @bind=@selectedPartId @bind:after="HandleSelectPart">
+                <option value="-1">-- Service Name --</option>
+                @foreach (var item in parts)
+                {
+                    <option value="@item.PartID">@item.Description</option>
+                }
+            </select>
+            <MudText Typo="Typo.h5" Class="ml-4 " GutterBottom="true">Qty</MudText>
+            <MudTextField @bind-Value="@qty" Class="ml-2 px-2 border-1 mb-4" Style="margin-right: 5px; width: 90px; border: 1px solid gray;" />
+            <button @onclick="AddPart" disabled="@(selectedCustomer == null || selectedPart == null)">Add</button>
+        </div>
+        @if (showService)
+        {
+            <MudText Typo="Typo.h5" Class="mb-4 ml-4 ">Requested Parts</MudText>
+            <MudTable Items="@jobTasks" Class="mt-8 table-bordered ml-4">
+                <HeaderContent>
+                    <MudTh></MudTh>
+                    <MudTh></MudTh>
+                    <MudTh>ID</MudTh>
+                    <MudTh>Part</MudTh>
+                    <MudTh>Qty</MudTh>
+                    <MudTh>Price</MudTh>
+                </HeaderContent>
+                <RowTemplate>
+                    <MudTd @onclick="@(()=>SelectChange(context))">
+                        <span class="view-order">@editButtonLabel</span>
+                    </MudTd>
+                    <MudTd @onclick="@(()=>SelectDelete(context))">
+                        <span class="view-order">Delete</span>
+                    </MudTd>
+                    <MudTd>@context.PartID</MudTd>
+                    <MudTd>@context.Part.Description</MudTd>
+                    <MudTd>
+
+                        @if (isEditMode)
+                        {
+                            <input type="text" @oninput="()=>UpdatePrice(context)" @bind="@context.Quantity" style="width:50px;" />
+                        }
+                        else
+                        {
+                            @context.Quantity
+                        }
+
+                    </MudTd>
+                    <MudTd>@context.SellingPrice</MudTd>
+                </RowTemplate>
+            </MudTable>
+            <MudText Typo="Typo.h5" Class="mb-4 ml-4 ">Requested Services</MudText>
+            <MudTable Items="@serviceItems" Class="mt-8 table-bordered ml-4">
+                <HeaderContent>
+                    <MudTh></MudTh>
+                    <MudTh></MudTh>
+                    <MudTh>ID</MudTh>
+                    <MudTh>Part</MudTh>
+                    <MudTh>Hours</MudTh>
+                </HeaderContent>
+                <RowTemplate>
+                    <MudTd>
+                    </MudTd>
+                    <MudTd>
+                    </MudTd>
+                    <MudTd>@context.StandardJobID</MudTd>
+                    <MudTd>@context.Description</MudTd>
+                    <MudTd>@context.Hours</MudTd>
+                </RowTemplate>
+            </MudTable>
+            <div style="display: flex; justify-content:right;">
+                <button @onclick="ClearChanges">Clear Changes</button>
+                <button @onclick="Save">Save</button>
+            </div>
+        }
+        <hr style="width: 100%; height: 3px; color:dimgray" />
+    </div>
+
+    <div class="outstandingOrdersArea" style="display: flex; flex-direction:column; height: 25rem; overflow: auto;">
+        <MudText Typo="Typo.h5" GutterBottom="true" Class="mb-4 ml-4 ">Vehicles in for Servicing</MudText>
+        <MudTable Items="@vinservicing" Class="table-bordered">
+            <HeaderContent>
+                <MudTh></MudTh>
+                <MudTh>Job ID</MudTh>
+                <MudTh>Bike</MudTh>
+                <MudTh>VIN</MudTh>
+            </HeaderContent>
+            <RowTemplate>
+                <MudTd>@context.JobID</MudTd>
+                <MudTd @onclick="@(()=>SelectOrder(context))">
+                    <span class="view-order">Select</span>
+                </MudTd>
+                <MudTd>@context.Vehicle.Model</MudTd>
+                <MudTd>@context.Vehicle.VehicleIdentification</MudTd>
+            </RowTemplate>
+        </MudTable>
+    </div>
+</article>

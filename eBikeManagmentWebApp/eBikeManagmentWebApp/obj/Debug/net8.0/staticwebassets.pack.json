@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eBikeManagmentWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\eBikeManagmentWebApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\wwwroot\\images\\Bigrefresh.png",
+      "PackagePath": "staticwebassets\\images\\Bigrefresh.png"
+    },
+    {
+      "Id": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\wwwroot\\images\\Cancel.png",
+      "PackagePath": "staticwebassets\\images\\Cancel.png"
+    },
+    {
+      "Id": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\wwwroot\\images\\Recycle.png",
+      "PackagePath": "staticwebassets\\images\\Recycle.png"
+    },
+    {
+      "Id": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\wwwroot\\images\\Refresh.png",
+      "PackagePath": "staticwebassets\\images\\Refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\wwwroot\\images\\Search.png",
+      "PackagePath": "staticwebassets\\images\\Search.png"
+    },
+    {
+      "Id": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\wwwroot\\images\\check.svg",
+      "PackagePath": "staticwebassets\\images\\check.svg"
+    },
+    {
+      "Id": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\wwwroot\\images\\uparrow.png",
+      "PackagePath": "staticwebassets\\images\\uparrow.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.eBikeManagmentWebApp.props",
+      "PackagePath": "build\\eBikeManagmentWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.eBikeManagmentWebApp.props",
+      "PackagePath": "buildMultiTargeting\\eBikeManagmentWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.eBikeManagmentWebApp.props",
+      "PackagePath": "buildTransitive\\eBikeManagmentWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.eBikeManagmentWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

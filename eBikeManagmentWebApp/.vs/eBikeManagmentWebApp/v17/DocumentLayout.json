@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\ebikemanagmentwebapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|solutionrelative:ebikemanagmentwebapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\ebikemanagmentwebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|solutionrelative:ebikemanagmentwebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\ebikemanagmentwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|solutionrelative:ebikemanagmentwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\ebikemanagmentwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|solutionrelative:ebikemanagmentwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\ebikemanagmentwebapp\\components\\pages\\servicing\\servicejob.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|solutionrelative:ebikemanagmentwebapp\\components\\pages\\servicing\\servicejob.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB4EE11-6952-4336-8374-8C23CDB06AD5}|ServicingSystem\\ServicingSystem.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\servicingsystem\\viewmodels\\outstandingordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB4EE11-6952-4336-8374-8C23CDB06AD5}|ServicingSystem\\ServicingSystem.csproj|solutionrelative:servicingsystem\\viewmodels\\outstandingordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932CD03-521D-42E6-9089-E7DB17573DF3}|SalesAndReturnSystem\\SalesAndReturnSystem.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\salesandreturnsystem\\viewmodels\\outstandingordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932CD03-521D-42E6-9089-E7DB17573DF3}|SalesAndReturnSystem\\SalesAndReturnSystem.csproj|solutionrelative:salesandreturnsystem\\viewmodels\\outstandingordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\ebikemanagmentwebapp\\components\\pages\\servicing\\registerjob.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|solutionrelative:ebikemanagmentwebapp\\components\\pages\\servicing\\registerjob.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\ebikemanagmentwebapp\\components\\pages\\salesandreturns\\salepage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|solutionrelative:ebikemanagmentwebapp\\components\\pages\\salesandreturns\\salepage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\ebikemanagmentwebapp\\components\\pages\\salesandreturns\\returns.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|solutionrelative:ebikemanagmentwebapp\\components\\pages\\salesandreturns\\returns.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\ebikemanagmentwebapp\\components\\pages\\servicing\\servicejob.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|solutionrelative:ebikemanagmentwebapp\\components\\pages\\servicing\\servicejob.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\ebikemanagmentwebapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|solutionrelative:ebikemanagmentwebapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB4EE11-6952-4336-8374-8C23CDB06AD5}|ServicingSystem\\ServicingSystem.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\servicingsystem\\servicingextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB4EE11-6952-4336-8374-8C23CDB06AD5}|ServicingSystem\\ServicingSystem.csproj|solutionrelative:servicingsystem\\servicingextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932CD03-521D-42E6-9089-E7DB17573DF3}|SalesAndReturnSystem\\SalesAndReturnSystem.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\salesandreturnsystem\\salesandreturnextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932CD03-521D-42E6-9089-E7DB17573DF3}|SalesAndReturnSystem\\SalesAndReturnSystem.csproj|solutionrelative:salesandreturnsystem\\salesandreturnextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932CD03-521D-42E6-9089-E7DB17573DF3}|SalesAndReturnSystem\\SalesAndReturnSystem.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\salesandreturnsystem\\dal\\salesandreturncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932CD03-521D-42E6-9089-E7DB17573DF3}|SalesAndReturnSystem\\SalesAndReturnSystem.csproj|solutionrelative:salesandreturnsystem\\dal\\salesandreturncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A829E1-85E4-47B6-9A1B-082E39BB7161}|ReceivingSystem\\ReceivingSystem.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\receivingsystem\\receivingextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A829E1-85E4-47B6-9A1B-082E39BB7161}|ReceivingSystem\\ReceivingSystem.csproj|solutionrelative:receivingsystem\\receivingextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB4EE11-6952-4336-8374-8C23CDB06AD5}|ServicingSystem\\ServicingSystem.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\servicingsystem\\dal\\servicingdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB4EE11-6952-4336-8374-8C23CDB06AD5}|ServicingSystem\\ServicingSystem.csproj|solutionrelative:servicingsystem\\dal\\servicingdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\ebikemanagmentwebapp\\components\\pages\\servicing\\registerjob.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|solutionrelative:ebikemanagmentwebapp\\components\\pages\\servicing\\registerjob.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\ebikemanagmentwebapp\\components\\pages\\salesandreturns\\salepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|solutionrelative:ebikemanagmentwebapp\\components\\pages\\salesandreturns\\salepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\ebikemanagmentwebapp\\components\\pages\\receiving\\receiving.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|solutionrelative:ebikemanagmentwebapp\\components\\pages\\receiving\\receiving.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\ebikemanagmentwebapp\\components\\pages\\salesandreturns\\returns.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|solutionrelative:ebikemanagmentwebapp\\components\\pages\\salesandreturns\\returns.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB4EE11-6952-4336-8374-8C23CDB06AD5}|ServicingSystem\\ServicingSystem.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\servicingsystem\\viewmodels\\serviceitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB4EE11-6952-4336-8374-8C23CDB06AD5}|ServicingSystem\\ServicingSystem.csproj|solutionrelative:servicingsystem\\viewmodels\\serviceitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB4EE11-6952-4336-8374-8C23CDB06AD5}|ServicingSystem\\ServicingSystem.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\servicingsystem\\viewmodels\\customershowtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB4EE11-6952-4336-8374-8C23CDB06AD5}|ServicingSystem\\ServicingSystem.csproj|solutionrelative:servicingsystem\\viewmodels\\customershowtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB4EE11-6952-4336-8374-8C23CDB06AD5}|ServicingSystem\\ServicingSystem.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\servicingsystem\\viewmodels\\jobdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB4EE11-6952-4336-8374-8C23CDB06AD5}|ServicingSystem\\ServicingSystem.csproj|solutionrelative:servicingsystem\\viewmodels\\jobdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB4EE11-6952-4336-8374-8C23CDB06AD5}|ServicingSystem\\ServicingSystem.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\servicingsystem\\viewmodels\\vinservicingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB4EE11-6952-4336-8374-8C23CDB06AD5}|ServicingSystem\\ServicingSystem.csproj|solutionrelative:servicingsystem\\viewmodels\\vinservicingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932CD03-521D-42E6-9089-E7DB17573DF3}|SalesAndReturnSystem\\SalesAndReturnSystem.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\salesandreturnsystem\\viewmodels\\tabledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932CD03-521D-42E6-9089-E7DB17573DF3}|SalesAndReturnSystem\\SalesAndReturnSystem.csproj|solutionrelative:salesandreturnsystem\\viewmodels\\tabledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932CD03-521D-42E6-9089-E7DB17573DF3}|SalesAndReturnSystem\\SalesAndReturnSystem.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\salesandreturnsystem\\viewmodels\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932CD03-521D-42E6-9089-E7DB17573DF3}|SalesAndReturnSystem\\SalesAndReturnSystem.csproj|solutionrelative:salesandreturnsystem\\viewmodels\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932CD03-521D-42E6-9089-E7DB17573DF3}|SalesAndReturnSystem\\SalesAndReturnSystem.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\salesandreturnsystem\\salesandreturnsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1932CD03-521D-42E6-9089-E7DB17573DF3}|SalesAndReturnSystem\\SalesAndReturnSystem.csproj|solutionrelative:salesandreturnsystem\\salesandreturnsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A829E1-85E4-47B6-9A1B-082E39BB7161}|ReceivingSystem\\ReceivingSystem.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\receivingsystem\\bll\\receivingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A829E1-85E4-47B6-9A1B-082E39BB7161}|ReceivingSystem\\ReceivingSystem.csproj|solutionrelative:receivingsystem\\bll\\receivingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\ebikemanagmentwebapp\\components\\pages\\receiving\\receiving.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D880283D-20EF-413C-B395-8F1F5D6E223E}|eBikeManagmentWebApp\\eBikeManagmentWebApp.csproj|solutionrelative:ebikemanagmentwebapp\\components\\pages\\receiving\\receiving.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1932CD03-521D-42E6-9089-E7DB17573DF3}|SalesAndReturnSystem\\SalesAndReturnSystem.csproj|c:\\users\\ssharma107\\downloads\\ebikemanagmentwebapp (1)\\salesandreturnsystem\\bll\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1932CD03-521D-42E6-9089-E7DB17573DF3}|SalesAndReturnSystem\\SalesAndReturnSystem.csproj|solutionrelative:salesandreturnsystem\\bll\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "eBikeManagmentWebApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "eBikeManagmentWebApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T23:31:08.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "eBikeManagmentWebApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "eBikeManagmentWebApp\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T23:31:03.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceJob.razor.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\Servicing\\ServiceJob.razor.cs",
+              "RelativeDocumentMoniker": "eBikeManagmentWebApp\\Components\\Pages\\Servicing\\ServiceJob.razor.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\Servicing\\ServiceJob.razor.cs",
+              "RelativeToolTip": "eBikeManagmentWebApp\\Components\\Pages\\Servicing\\ServiceJob.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:00:50.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OutstandingOrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ServicingSystem\\ViewModels\\OutstandingOrderModel.cs",
+              "RelativeDocumentMoniker": "ServicingSystem\\ViewModels\\OutstandingOrderModel.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ServicingSystem\\ViewModels\\OutstandingOrderModel.cs",
+              "RelativeToolTip": "ServicingSystem\\ViewModels\\OutstandingOrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:01:37.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "eBikeManagmentWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\appsettings.json",
+              "RelativeToolTip": "eBikeManagmentWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T23:14:48.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "eBikeManagmentWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Program.cs",
+              "RelativeToolTip": "eBikeManagmentWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:15:05.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OutstandingOrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\SalesAndReturnSystem\\ViewModels\\OutstandingOrderModel.cs",
+              "RelativeDocumentMoniker": "SalesAndReturnSystem\\ViewModels\\OutstandingOrderModel.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\SalesAndReturnSystem\\ViewModels\\OutstandingOrderModel.cs",
+              "RelativeToolTip": "SalesAndReturnSystem\\ViewModels\\OutstandingOrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:26:02.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterJob.razor",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\Servicing\\RegisterJob.razor",
+              "RelativeDocumentMoniker": "eBikeManagmentWebApp\\Components\\Pages\\Servicing\\RegisterJob.razor",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\Servicing\\RegisterJob.razor",
+              "RelativeToolTip": "eBikeManagmentWebApp\\Components\\Pages\\Servicing\\RegisterJob.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T22:43:46.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalePage.razor.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\SalesAndReturns\\SalePage.razor.cs",
+              "RelativeDocumentMoniker": "eBikeManagmentWebApp\\Components\\Pages\\SalesAndReturns\\SalePage.razor.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\SalesAndReturns\\SalePage.razor.cs",
+              "RelativeToolTip": "eBikeManagmentWebApp\\Components\\Pages\\SalesAndReturns\\SalePage.razor.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:52:49.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Returns.razor.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\SalesAndReturns\\Returns.razor.cs",
+              "RelativeDocumentMoniker": "eBikeManagmentWebApp\\Components\\Pages\\SalesAndReturns\\Returns.razor.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\SalesAndReturns\\Returns.razor.cs",
+              "RelativeToolTip": "eBikeManagmentWebApp\\Components\\Pages\\SalesAndReturns\\Returns.razor.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:42:36.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceJob.razor",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\Servicing\\ServiceJob.razor",
+              "RelativeDocumentMoniker": "eBikeManagmentWebApp\\Components\\Pages\\Servicing\\ServiceJob.razor",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\Servicing\\ServiceJob.razor",
+              "RelativeToolTip": "eBikeManagmentWebApp\\Components\\Pages\\Servicing\\ServiceJob.razor",
+              "ViewState": "AQIAAFcAAAAAAAAAAAASwHEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T23:20:49.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "eBikeManagmentWebApp\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "eBikeManagmentWebApp\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T23:20:14.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SalesAndReturnContext.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\SalesAndReturnSystem\\DAL\\SalesAndReturnContext.cs",
+              "RelativeDocumentMoniker": "SalesAndReturnSystem\\DAL\\SalesAndReturnContext.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\SalesAndReturnSystem\\DAL\\SalesAndReturnContext.cs",
+              "RelativeToolTip": "SalesAndReturnSystem\\DAL\\SalesAndReturnContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:10:29.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReceivingExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ReceivingSystem\\ReceivingExtension.cs",
+              "RelativeDocumentMoniker": "ReceivingSystem\\ReceivingExtension.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ReceivingSystem\\ReceivingExtension.cs",
+              "RelativeToolTip": "ReceivingSystem\\ReceivingExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:12:34.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServicingExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ServicingSystem\\ServicingExtension.cs",
+              "RelativeDocumentMoniker": "ServicingSystem\\ServicingExtension.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ServicingSystem\\ServicingExtension.cs",
+              "RelativeToolTip": "ServicingSystem\\ServicingExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:10:24.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SalesAndReturnExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\SalesAndReturnSystem\\SalesAndReturnExtension.cs",
+              "RelativeDocumentMoniker": "SalesAndReturnSystem\\SalesAndReturnExtension.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\SalesAndReturnSystem\\SalesAndReturnExtension.cs",
+              "RelativeToolTip": "SalesAndReturnSystem\\SalesAndReturnExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:08:09.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServicingDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ServicingSystem\\DAL\\ServicingDataContext.cs",
+              "RelativeDocumentMoniker": "ServicingSystem\\DAL\\ServicingDataContext.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ServicingSystem\\DAL\\ServicingDataContext.cs",
+              "RelativeToolTip": "ServicingSystem\\DAL\\ServicingDataContext.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:09:51.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SalePage.razor",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\SalesAndReturns\\SalePage.razor",
+              "RelativeDocumentMoniker": "eBikeManagmentWebApp\\Components\\Pages\\SalesAndReturns\\SalePage.razor",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\SalesAndReturns\\SalePage.razor",
+              "RelativeToolTip": "eBikeManagmentWebApp\\Components\\Pages\\SalesAndReturns\\SalePage.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T23:09:27.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterJob.razor.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\Servicing\\RegisterJob.razor.cs",
+              "RelativeDocumentMoniker": "eBikeManagmentWebApp\\Components\\Pages\\Servicing\\RegisterJob.razor.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\Servicing\\RegisterJob.razor.cs",
+              "RelativeToolTip": "eBikeManagmentWebApp\\Components\\Pages\\Servicing\\RegisterJob.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:43:48.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ServicingSystem\\ViewModels\\ServiceItemModel.cs",
+              "RelativeDocumentMoniker": "ServicingSystem\\ViewModels\\ServiceItemModel.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ServicingSystem\\ViewModels\\ServiceItemModel.cs",
+              "RelativeToolTip": "ServicingSystem\\ViewModels\\ServiceItemModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T23:02:00.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Receiving.razor.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\Receiving\\Receiving.razor.cs",
+              "RelativeDocumentMoniker": "eBikeManagmentWebApp\\Components\\Pages\\Receiving\\Receiving.razor.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\Receiving\\Receiving.razor.cs",
+              "RelativeToolTip": "eBikeManagmentWebApp\\Components\\Pages\\Receiving\\Receiving.razor.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:42:15.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Returns.razor",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\SalesAndReturns\\Returns.razor",
+              "RelativeDocumentMoniker": "eBikeManagmentWebApp\\Components\\Pages\\SalesAndReturns\\Returns.razor",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\SalesAndReturns\\Returns.razor",
+              "RelativeToolTip": "eBikeManagmentWebApp\\Components\\Pages\\SalesAndReturns\\Returns.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T22:42:33.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerShowTable.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ServicingSystem\\ViewModels\\CustomerShowTable.cs",
+              "RelativeDocumentMoniker": "ServicingSystem\\ViewModels\\CustomerShowTable.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ServicingSystem\\ViewModels\\CustomerShowTable.cs",
+              "RelativeToolTip": "ServicingSystem\\ViewModels\\CustomerShowTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:59:30.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JobDetailModel.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ServicingSystem\\ViewModels\\JobDetailModel.cs",
+              "RelativeDocumentMoniker": "ServicingSystem\\ViewModels\\JobDetailModel.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ServicingSystem\\ViewModels\\JobDetailModel.cs",
+              "RelativeToolTip": "ServicingSystem\\ViewModels\\JobDetailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:58:24.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VinServicingModel.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ServicingSystem\\ViewModels\\VinServicingModel.cs",
+              "RelativeDocumentMoniker": "ServicingSystem\\ViewModels\\VinServicingModel.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ServicingSystem\\ViewModels\\VinServicingModel.cs",
+              "RelativeToolTip": "ServicingSystem\\ViewModels\\VinServicingModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:57:45.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TableData.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\SalesAndReturnSystem\\ViewModels\\TableData.cs",
+              "RelativeDocumentMoniker": "SalesAndReturnSystem\\ViewModels\\TableData.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\SalesAndReturnSystem\\ViewModels\\TableData.cs",
+              "RelativeToolTip": "SalesAndReturnSystem\\ViewModels\\TableData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:55:47.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReturnData.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\SalesAndReturnSystem\\ViewModels\\ReturnData.cs",
+              "RelativeDocumentMoniker": "SalesAndReturnSystem\\ViewModels\\ReturnData.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\SalesAndReturnSystem\\ViewModels\\ReturnData.cs",
+              "RelativeToolTip": "SalesAndReturnSystem\\ViewModels\\ReturnData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:55:28.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SalesAndReturnSystem",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\SalesAndReturnSystem\\SalesAndReturnSystem.csproj",
+              "RelativeDocumentMoniker": "SalesAndReturnSystem\\SalesAndReturnSystem.csproj",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\SalesAndReturnSystem\\SalesAndReturnSystem.csproj",
+              "RelativeToolTip": "SalesAndReturnSystem\\SalesAndReturnSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-20T22:53:59.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReceivingService.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ReceivingSystem\\BLL\\ReceivingService.cs",
+              "RelativeDocumentMoniker": "ReceivingSystem\\BLL\\ReceivingService.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\ReceivingSystem\\BLL\\ReceivingService.cs",
+              "RelativeToolTip": "ReceivingSystem\\BLL\\ReceivingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:41:29.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Receiving.razor",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\Receiving\\Receiving.razor",
+              "RelativeDocumentMoniker": "eBikeManagmentWebApp\\Components\\Pages\\Receiving\\Receiving.razor",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\eBikeManagmentWebApp\\Components\\Pages\\Receiving\\Receiving.razor",
+              "RelativeToolTip": "eBikeManagmentWebApp\\Components\\Pages\\Receiving\\Receiving.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T22:42:10.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SalesService.cs",
+              "DocumentMoniker": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\SalesAndReturnSystem\\BLL\\SalesService.cs",
+              "RelativeDocumentMoniker": "SalesAndReturnSystem\\BLL\\SalesService.cs",
+              "ToolTip": "C:\\Users\\ssharma107\\Downloads\\eBikeManagmentWebApp (1)\\SalesAndReturnSystem\\BLL\\SalesService.cs",
+              "RelativeToolTip": "SalesAndReturnSystem\\BLL\\SalesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:41:03.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+/* _content/eBikeManagmentWebApp/Components/Layout/MainLayout.razor.rz.scp.css */
+main[b-7zvmii931c] {
+    margin-top: 4rem;
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+article[b-7zvmii931c]{
+    width: 100%;
+    height: 100%;
+}
+
+
+.top-row[b-7zvmii931c] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-7zvmii931c]  a, .top-row[b-7zvmii931c]  .btn-link {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        text-decoration: none;
+    }
+
+    .top-row[b-7zvmii931c]  a:hover, .top-row[b-7zvmii931c]  .btn-link:hover {
+        text-decoration: underline;
+    }
+
+    .top-row[b-7zvmii931c]  a:first-child {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row[b-7zvmii931c] {
+        justify-content: space-between;
+    }
+
+    .top-row[b-7zvmii931c]  a, .top-row[b-7zvmii931c]  .btn-link {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-7zvmii931c] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-7zvmii931c] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-7zvmii931c] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row.auth[b-7zvmii931c]  a:first-child {
+        flex: 1;
+        text-align: right;
+        width: 0;
+    }
+
+    .top-row[b-7zvmii931c], article[b-7zvmii931c] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+
+#blazor-error-ui[b-7zvmii931c] {
+    background: lightyellow;
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+    #blazor-error-ui .dismiss[b-7zvmii931c] {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+        top: 0.5rem;
+    }
+/* _content/eBikeManagmentWebApp/Components/Pages/Receiving/Receiving.razor.rz.scp.css */
+
+label[b-wd57yzly1u], input[b-wd57yzly1u] {
+    font-size: 1.25rem;
+}
+
+.results[b-wd57yzly1u] {
+    width: 100%;
+    display: flex;
+    padding: 0.5rem;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: solid 1px black;
+}
+
+input[type=number][b-wd57yzly1u] {
+    height: 2rem;
+    width: 3rem;
+    text-align: right;
+    border-bottom:solid 1px black;
+}
+
+input[type=text][b-wd57yzly1u] {
+    border: 1px solid black;
+    border-radius: 0.25rem;
+    padding: 2px;
+    margin-left: 20px;
+    height: 2rem;
+    width: 100%;
+    text-align: right;
+}
+
+/* No spin buttons */
+input[b-wd57yzly1u]::-webkit-outer-spin-button,
+input[b-wd57yzly1u]::-webkit-inner-spin-button, input[type=number][b-wd57yzly1u] {
+    /* Chrome */
+    -webkit-appearance: none;
+    /* Firefox */
+    -moz-appearance: textfield;
+}
+/* _content/eBikeManagmentWebApp/Components/Pages/SalesAndReturns/Returns.razor.rz.scp.css */
+.tableButton[b-pyq6x4zhiu] {
+    height: 1rem;
+    width: 1rem;
+    border: solid 1px black;
+    border-radius:0.25rem;
+    margin: 0.25rem;
+}
+label[b-pyq6x4zhiu], input[b-pyq6x4zhiu]{
+    font-size: 1.25rem;
+}
+.results[b-pyq6x4zhiu] {
+    width: 100%;
+    display: flex;
+    padding: 0.5rem;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: solid 1px black;
+}
+
+input[type=number][b-pyq6x4zhiu] {
+    height: 2rem;
+    width: 3rem;
+    text-align: right;
+}
+
+input[type=text][b-pyq6x4zhiu] {
+    border: 1px solid black;
+    border-radius: 0.25rem;
+    padding: 2px;
+    margin-left: 20px;
+    height: 2rem;
+    width: 100%;
+    text-align:right;
+}
+
+/* No spin buttons */
+input[b-pyq6x4zhiu]::-webkit-outer-spin-button,
+input[b-pyq6x4zhiu]::-webkit-inner-spin-button, input[type=number][b-pyq6x4zhiu] {
+    /* Chrome */
+    -webkit-appearance: none;
+    /* Firefox */
+    -moz-appearance: textfield;
+}
+/* _content/eBikeManagmentWebApp/Components/Pages/SalesAndReturns/SalePage.razor.rz.scp.css */
+
+label[b-d16xgb9098], input[b-d16xgb9098] {
+    font-size: 1.25rem;
+}
+
+.results[b-d16xgb9098] {
+    width: 100%;
+    display: flex;
+    padding: 0.5rem;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: solid 1px black;
+}
+
+input[type=number][b-d16xgb9098] {
+    height: 2rem;
+    width: 3rem;
+    text-align: right;
+}
+input[type=text][b-d16xgb9098] {
+    border: 1px solid black;
+    border-radius: 0.25rem;
+    padding: 2px;
+    margin-left: 20px;
+    height: 2rem;
+    width: 100%;
+    text-align: right;
+}
+
+/* No spin buttons */
+input[b-d16xgb9098]::-webkit-outer-spin-button,
+input[b-d16xgb9098]::-webkit-inner-spin-button, input[type=number][b-d16xgb9098] {
+    /* Chrome */
+    -webkit-appearance: none;
+    /* Firefox */
+    -moz-appearance: textfield;
+}
+/* _content/eBikeManagmentWebApp/Components/Pages/Servicing/RegisterJob.razor.rz.scp.css */
+
+label[b-grcehwj468], input[b-grcehwj468] {
+    font-size: 1rem;
+    text-wrap: nowrap;
+    margin-top: auto 0;
+}
+
+label[b-grcehwj468] {
+}
+
+.results[b-grcehwj468] {
+    width: 100%;
+    display: flex;
+    padding: 0.5rem;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: solid 1px black;
+}
+
+.orderItemArea[b-grcehwj468] {
+    max-width: 45%;
+}
+
+textarea[b-grcehwj468] {
+    width: 100%;
+    border: solid 1px black;
+}
+
+input[type=number][b-grcehwj468] {
+    height: 2rem;
+    width: 3rem;
+    text-align: right;
+}
+
+input[type=text][b-grcehwj468] {
+    border: 1px solid black;
+    border-radius: 0.25rem;
+    padding: 2px;
+    margin-left: 20px;
+    height: 2rem;
+    width: 100%;
+    text-align: right;
+}
+
+/* No spin buttons */
+input[b-grcehwj468]::-webkit-outer-spin-button,
+input[b-grcehwj468]::-webkit-inner-spin-button, input[type=number][b-grcehwj468] {
+    /* Chrome */
+    -webkit-appearance: none;
+    /* Firefox */
+    -moz-appearance: textfield;
+}
+
+
+@media (max-width: 1200px) {
+    article[b-grcehwj468] {
+        display: flex;
+        flex-direction: column;
+    }
+    .orderItemArea[b-grcehwj468] {
+        max-width: 100%;
+    }
+
+    .customersArea[b-grcehwj468] {
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 1200px) {
+    article[b-grcehwj468] {
+        justify-content: space-around;
+        display: flex;
+        flex-direction: row;
+    }
+    .orderItemArea[b-grcehwj468] {
+        max-width: 45%;
+    }
+    .customersArea[b-grcehwj468] {
+        max-width: 45%;
+    }
+}
+/* _content/eBikeManagmentWebApp/Components/Pages/Servicing/ServiceJob.razor.rz.scp.css */
+
+label[b-p4f8cgb7ps], input[b-p4f8cgb7ps] {
+    font-size: 1rem;
+    text-wrap: nowrap;
+    margin-top: auto 0;
+}
+button[b-p4f8cgb7ps] {
+    background-color: blue;
+    border-radius: 0.5rem;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    color: white;
+    font-weight: bold;
+    width: 75px;
+    display: flex;
+    justify-content: center;
+}
+label[b-p4f8cgb7ps] {
+}
+
+.results[b-p4f8cgb7ps] {
+    width: 100%;
+    display: flex;
+    padding: 0.5rem;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: solid 1px black;
+}
+
+input[type=number][b-p4f8cgb7ps] {
+    height: 2rem;
+    width: 3rem;
+    text-align: right;
+}
+
+input[type=text][b-p4f8cgb7ps] {
+    border: 1px solid black;
+    border-radius: 0.25rem;
+    padding: 2px;
+    margin-left: 20px;
+    height: 2rem;
+    width: 100%;
+    text-align: right;
+}
+
+/* No spin buttons */
+input[b-p4f8cgb7ps]::-webkit-outer-spin-button,
+input[b-p4f8cgb7ps]::-webkit-inner-spin-button, input[type=number][b-p4f8cgb7ps] {
+    /* Chrome */
+    -webkit-appearance: none;
+    /* Firefox */
+    -moz-appearance: textfield;
+}
+
+
+@media (max-width: 1200px) {
+    article[b-p4f8cgb7ps] {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .serviceItemsArea[b-p4f8cgb7ps] {
+        max-width: 100%;
+    }
+
+    .outstandingOrdersArea[b-p4f8cgb7ps] {
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 1200px) {
+    article[b-p4f8cgb7ps] {
+        justify-content: space-around;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .serviceItemsArea[b-p4f8cgb7ps] {
+        max-width: 45%;
+    }
+
+    .outstandingOrdersArea[b-p4f8cgb7ps] {
+        max-width: 45%;
+    }
+}

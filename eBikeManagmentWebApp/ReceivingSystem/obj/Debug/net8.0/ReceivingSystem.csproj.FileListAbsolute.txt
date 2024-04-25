@@ -1,0 +1,25 @@
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\ReceivingSystem\bin\Debug\net8.0\ReceivingSystem.deps.json
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\ReceivingSystem\bin\Debug\net8.0\ReceivingSystem.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\ReceivingSystem\bin\Debug\net8.0\ReceivingSystem.pdb
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\ReceivingSystem\obj\Debug\net8.0\ReceivingSystem.csproj.AssemblyReference.cache
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\ReceivingSystem\obj\Debug\net8.0\ReceivingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\ReceivingSystem\obj\Debug\net8.0\ReceivingSystem.AssemblyInfoInputs.cache
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\ReceivingSystem\obj\Debug\net8.0\ReceivingSystem.AssemblyInfo.cs
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\ReceivingSystem\obj\Debug\net8.0\ReceivingSystem.csproj.CoreCompileInputs.cache
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\ReceivingSystem\obj\Debug\net8.0\ReceivingSystem.sourcelink.json
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\ReceivingSystem\obj\Debug\net8.0\ReceivingSystem.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\ReceivingSystem\obj\Debug\net8.0\refint\ReceivingSystem.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\ReceivingSystem\obj\Debug\net8.0\ReceivingSystem.pdb
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\ReceivingSystem\obj\Debug\net8.0\ref\ReceivingSystem.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\ReceivingSystem\bin\Debug\net8.0\ReceivingSystem.deps.json
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\ReceivingSystem\bin\Debug\net8.0\ReceivingSystem.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\ReceivingSystem\bin\Debug\net8.0\ReceivingSystem.pdb
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\ReceivingSystem\obj\Debug\net8.0\ReceivingSystem.csproj.AssemblyReference.cache
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\ReceivingSystem\obj\Debug\net8.0\ReceivingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\ReceivingSystem\obj\Debug\net8.0\ReceivingSystem.AssemblyInfoInputs.cache
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\ReceivingSystem\obj\Debug\net8.0\ReceivingSystem.AssemblyInfo.cs
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\ReceivingSystem\obj\Debug\net8.0\ReceivingSystem.csproj.CoreCompileInputs.cache
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\ReceivingSystem\obj\Debug\net8.0\ReceivingSystem.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\ReceivingSystem\obj\Debug\net8.0\refint\ReceivingSystem.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\ReceivingSystem\obj\Debug\net8.0\ReceivingSystem.pdb
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\ReceivingSystem\obj\Debug\net8.0\ref\ReceivingSystem.dll

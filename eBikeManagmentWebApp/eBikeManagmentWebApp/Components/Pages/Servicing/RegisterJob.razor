@@ -1,0 +1,124 @@
+﻿@page "/registerjob"
+@rendermode InteractiveServer
+
+<PageTitle>Register Order</PageTitle>
+
+<MudText Typo="Typo.h3" GutterBottom="true">Register new job</MudText>
+<article>
+    <div class="orderItemArea" style="display: flex; flex-direction: column;">
+        <div class="pt-4 d-flex flex-column flex-sm-row gap-6 ml-4" style="display: flex; align-items: center;">
+            <label>Service</label>
+            <label style="width: 100%; border: 1px solid gray;">@serviceName</label>
+            <button class="btn py-4 px-8 rounded-lg text-white" style="background-color: blue; color:white;font-weight: bold;" @onclick="Add">Add</button>
+            <button class="btn py-4 px-4 rounded-lg text-white" style="background-color: black; color:white;font-weight: bold;" @onclick="Reset">Reset</button>
+        </div>
+        <div class="pt-4 d-flex ml-4 flex-column flex-sm-row gap-6" style="display: flex;  align-items: center;">
+            <label>Std Srv</label>
+            <select @bind=@selectedJobId @bind:after=@HandleJobSelection>
+                <option value="-1">-- Select Service --</option>
+                @foreach (var item in services)
+                {
+                    <option value="@item.StandardJobID">@item.Description</option>
+                }
+            </select>
+        </div>
+        <div class="pt-4 ml-4 d-flex flex-column flex-sm-row gap-6" style="display: flex;  align-items: center;">
+            <label>Hours</label>
+            <input type="text" @bind="@hours" Class="ml-2 px-2 border-1 mb-4" Style="margin-right: 5px; width: 90px; border: 1px solid gray;" />
+            <span>Shop Rate</span>
+            <input type="text" @bind="@shopRate" @bind:after=OnShopRateChanged
+                   Class="ml-2 px-2 border-1 mb-4" Style="margin-right: 5px; width: 90px; border: 1px solid gray;" />
+        </div>
+        <div class="pt-4 d-flex flex-column flex-sm-row gap-6" style="display: flex; align-items: start;">
+            <label>Comment</label>
+            <textarea @bind="@comment" Multiline="true" Rows="5" Label="Text Area" />
+
+        </div>
+        <div style="display:flex; justify-content:space-between; margin: 1rem;">
+            <div id="couponSelector" class="flex-col w-full" style="width:300px;">
+                <input type="text" placeholder="--Coupon ID--" @bind=@couponCode @bind:after=@VerifyCoupon />
+                <div style="margin:4px;">
+                    <div style="display:flex;  justify-content:right">
+                        <label>Coupon Value:</label>
+                        <label style="margin-left: 3rem;">@couponValue</label>
+                    </div>
+                    <div style="display:flex; justify-content:right">
+                        <MudButton Class="btn py-2 ml-4 px-2 rounded-lg" Color="Color.Primary" Style=" bold;color:black; padding:8px;margin-top: 1rem; border: solid 1px black;" @onclick="VerifyCoupon">Verify Coupon</MudButton>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <MudTable Items="@orderDetails" Class="table-bordered">
+                <HeaderContent>
+                    <MudTh></MudTh>
+                    <MudTh>Service</MudTh>
+                    <MudTh>Hours</MudTh>
+                    <MudTh>Shop Rate</MudTh>
+                    <MudTh>Comment</MudTh>
+                </HeaderContent>
+                <RowTemplate>
+                    <MudTd><img src="images/Cancel.png" alt="Increase Qty" style="cursor: pointer; margin-right: 10px;" @onclick="()=>DeleteService(context)" /></MudTd>
+                    <MudTd>@context.Service.Description</MudTd>
+                    <MudTd>@context.JobHours</MudTd>
+                    <MudTd>@context.ShopRate</MudTd>
+                    <MudTd>@context.Comments</MudTd>
+                </RowTemplate>
+            </MudTable>
+
+        </div>
+        <div class="ml-12 mt-4 d-flex flex-column flex-sm-row gap-6" style="justify-content: center; align-items:center; display: flex; align-items: center;">
+            <h3 style="color:dimGray">
+                Hours:
+                @totalHrs
+            </h3>
+            <h3 style="color: dimgray">
+                Total:
+                $@jobValue
+            </h3>
+            <span style="color:dimGray">(Parts are extra)</span>
+            <button class="btn py-1 px-8 rounded-lg text-white" style="background-color: black; color:white;font-weight: bold;" @onclick="Clear">Clear</button>
+            <button class="btn py-1 px-4 rounded-lg text-white" style="background-color: #00cc00;  color:white;font-weight: bold;" @onclick="RegisterNewJob">Register Job</button>
+        </div>
+    </div>
+    <div class="customersArea" style="display: flex; flex-direction: column;">
+        <div class="pt-4 d-flex flex-column flex-sm-row gap-6" style="display: flex; justify-content: center; align-items: center;">
+            <label>Customer:</label>
+            <label style="width:200px;">@selectedCustomer.Name</label>
+            <input type="text" @bind="@searchName" @bind:after=@HandleCustomerSearchClick Class="ml-2 px-2 border-1" Style="margin-right: 5px; width: 90px; border: 1px solid gray;" />
+            <button @onclick="HandleCustomerSearchClick">
+                <img src="images/Search.png" alt="search" style="cursor: pointer;" />
+            </button>
+        </div>
+        <div class="mt-8 mb-4">
+            <div class="pt-4 d-flex flex-column flex-sm-row gap-6" style="display: flex; justify-content: center; align-items: center;">
+                <h3>Vin</h3>
+                <select @bind=@VINNumber>
+                    <option>-- VIN --</option>
+                    @foreach (var item in vins)
+                    {
+                        <option Value="@item.VehicleIdentification">@item.Model</option>
+                    }
+                </select>
+                <span style="color:dimGray; width:200px;">@VINNumber</span>
+            </div>
+        </div>
+        <MudTable Items="@filteredCustomers" Class="table-bordered">
+            <HeaderContent>
+                <MudTh></MudTh>
+                <MudTh>Name</MudTh>
+                <MudTh>Phone</MudTh>
+                <MudTh>Address</MudTh>
+            </HeaderContent>
+            <RowTemplate>
+                <MudTd>
+                    <span class="view-order" @onclick="()=>SelectCustomer(context)">Select</span>
+                </MudTd>
+                <MudTd>@context.Name</MudTd>
+                <MudTd>@context.Phone</MudTd>
+                <MudTd>@context.Address</MudTd>
+            </RowTemplate>
+        </MudTable>
+    </div>
+</article>
+

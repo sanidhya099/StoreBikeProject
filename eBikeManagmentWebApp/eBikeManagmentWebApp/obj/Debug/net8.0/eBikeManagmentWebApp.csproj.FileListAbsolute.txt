@@ -1,0 +1,315 @@
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.csproj.AssemblyReference.cache
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.AssemblyInfoInputs.cache
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.AssemblyInfo.cs
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.csproj.CoreCompileInputs.cache
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.sourcelink.json
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\eBikeManagmentWebApp.staticwebassets.runtime.json
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\eBikeManagmentWebApp.exe
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\eBikeManagmentWebApp.deps.json
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\eBikeManagmentWebApp.runtimeconfig.json
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\eBikeManagmentWebApp.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\eBikeManagmentWebApp.pdb
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\MudBlazor.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\SalesAndReturnSystem.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\SalesAndReturnSystem.pdb
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\staticwebassets\msbuild.eBikeManagmentWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.eBikeManagmentWebApp.props
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.eBikeManagmentWebApp.props
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.eBikeManagmentWebApp.props
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\scopedcss\bundle\eBikeManagmentWebApp.styles.css
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\scopedcss\projectbundle\eBikeManagmentWebApp.bundle.scp.css
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeMan.7AAA6644.Up2Date
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\refint\eBikeManagmentWebApp.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.pdb
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.genruntimeconfig.cache
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\ref\eBikeManagmentWebApp.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Humanizer.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\scopedcss\Components\Pages\SalesAndReturns\Returns.razor.rz.scp.css
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\scopedcss\Components\Pages\SalesAndReturns\SalePage.razor.rz.scp.css
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\scopedcss\Components\Pages\Servicing\RegisterJob.razor.rz.scp.css
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\scopedcss\Components\Pages\Servicing\ServiceJob.razor.rz.scp.css
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\obj\Debug\net8.0\scopedcss\Components\Pages\Receiving\Receiving.razor.rz.scp.css
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\ReceivingSystem.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\ServicingSystem.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\ReceivingSystem.pdb
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\eBikeManagmentWebApp\bin\Debug\net8.0\ServicingSystem.pdb
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.csproj.AssemblyReference.cache
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.AssemblyInfoInputs.cache
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.AssemblyInfo.cs
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.csproj.CoreCompileInputs.cache
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\refint\eBikeManagmentWebApp.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.pdb
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\eBikeManagmentWebApp.staticwebassets.runtime.json
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\eBikeManagmentWebApp.exe
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\eBikeManagmentWebApp.deps.json
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\eBikeManagmentWebApp.runtimeconfig.json
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\eBikeManagmentWebApp.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\eBikeManagmentWebApp.pdb
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\MudBlazor.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\ReceivingSystem.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\SalesAndReturnSystem.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\ServicingSystem.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\ReceivingSystem.pdb
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\SalesAndReturnSystem.pdb
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\bin\Debug\net8.0\ServicingSystem.pdb
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\staticwebassets\msbuild.eBikeManagmentWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.eBikeManagmentWebApp.props
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.eBikeManagmentWebApp.props
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.eBikeManagmentWebApp.props
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\scopedcss\Components\Pages\Receiving\Receiving.razor.rz.scp.css
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\scopedcss\Components\Pages\SalesAndReturns\Returns.razor.rz.scp.css
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\scopedcss\Components\Pages\SalesAndReturns\SalePage.razor.rz.scp.css
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\scopedcss\Components\Pages\Servicing\RegisterJob.razor.rz.scp.css
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\scopedcss\Components\Pages\Servicing\ServiceJob.razor.rz.scp.css
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\scopedcss\bundle\eBikeManagmentWebApp.styles.css
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\scopedcss\projectbundle\eBikeManagmentWebApp.bundle.scp.css
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeMan.7AAA6644.Up2Date
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\eBikeManagmentWebApp.genruntimeconfig.cache
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\eBikeManagmentWebApp\obj\Debug\net8.0\ref\eBikeManagmentWebApp.dll

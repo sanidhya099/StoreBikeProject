@@ -1,0 +1,39 @@
+﻿
+label, input {
+    font-size: 1.25rem;
+}
+
+.results {
+    width: 100%;
+    display: flex;
+    padding: 0.5rem;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: solid 1px black;
+}
+
+input[type=number] {
+    height: 2rem;
+    width: 3rem;
+    text-align: right;
+    border-bottom:solid 1px black;
+}
+
+input[type=text] {
+    border: 1px solid black;
+    border-radius: 0.25rem;
+    padding: 2px;
+    margin-left: 20px;
+    height: 2rem;
+    width: 100%;
+    text-align: right;
+}
+
+/* No spin buttons */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button, input[type=number] {
+    /* Chrome */
+    -webkit-appearance: none;
+    /* Firefox */
+    -moz-appearance: textfield;
+}

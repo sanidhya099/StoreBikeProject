@@ -1,0 +1,86 @@
+﻿ @page "/returns"
+@rendermode InteractiveServer
+
+<PageTitle>Create Return</PageTitle>
+<h1>Returns</h1>
+<div class="d-flex flex-row flex-wrap justify-center items-center mb-2">
+    <span style="margin-top:auto;margin-bottom:auto;">Sale Invoice #</span>
+    <input type="number" @bind="@saleInvoiceID" class="ml-2 p-2 border-2 border-gray-200 outline-none" style="margin-right: 5px;width:80px" />
+    <button class="btn py-2 ml-4 px-2 rounded-lg text-white" style="background-color: blue;color:white; font-weight: bold; margin-right: 5px;" @onclick="LookupSale">Lookup Sale</button>
+    <button class="py-2 ml-4 px-8 rounded-lg text-black" style="background-color: #fff; font-weight: bold; border: 1px solid black;" @onclick="ClearSaleInvoice">Clear</button>
+
+</div>
+<div style="margin-bottom:20px;"></div>
+
+<MudTable Items="@returnItems" Class="table-bordered">
+    <HeaderContent>
+        <MudTh>Item</MudTh>
+        <MudTh>OrgQty</MudTh>
+        <MudTh>Price</MudTh>
+        <MudTh>Ref</MudTh>
+        <MudTh>RtnQty</MudTh>
+        <MudTh>Reason</MudTh>
+    </HeaderContent>
+    <RowTemplate>
+        <MudTd>@context.Item</MudTd>
+        <MudTd>@context.OrgQty</MudTd>
+        <MudTd>@context.Price</MudTd>
+        @if (context.Ref == "1")
+        {
+            <MudTd style="margin:auto;">
+                <button class="tableButton" @onclick=@(() => ChangeRefundStatus(context))>
+                    <img src="/images/check.svg" style="margin: 0.25rem;" />
+                </button>
+            </MudTd>
+
+        }
+        else if (context.Ref == "0")
+        {
+            <MudTd style="margin:auto;">
+                <button class="tableButton" @onclick=@(() => ChangeRefundStatus(context))>
+                    <img src="" style="margin: 0.25rem;" />
+                </button>
+            </MudTd>
+        }
+        <MudTd Style="align-content:center;">
+            <input type="text" @bind="@context.RtnQty" @bind:after=@UpdateTable style="margin-right: 5px; width: 90px; border: 1px solid gray;" />
+        </MudTd>
+        <MudTd>
+            <textarea @bind="@context.Reason" style="margin-right: 5px; width: 290px; border: 1px solid gray;" />
+        </MudTd>
+
+    </RowTemplate>
+</MudTable>
+<div style="display:flex; justify-content:center;">
+    <div style="margin-top:40px;display:flex; flex-direction:row; gap:40px;">
+        <div style="display:grid; width:250px;flex-direction:col; gap:15px; ">
+            <div class="flex-col w-full justify-center items-center" style="width: 300px;">
+                <div class="results">
+                    <label>Subtotal</label>
+                    <label>@subtotal</label>
+                </div>
+                <div class="results">
+                    <label>Tax %</label>
+                    <input style="border-bottom: solid 1px black;" type="number" onwheel="this.blur()" @bind=@tax @bind:after="@UpdateTable" />
+                </div>
+                <div class="results">
+                    <label>Discount %</label>
+                    <input style="border-bottom: solid 1px black;" type="number" onwheel="this.blur()" @bind="@discount" @bind:after="@UpdateTable" />
+                </div>
+                <div class="results">
+                    <label>Total</label>
+                    <label>@total</label>
+                </div>
+            </div>
+        </div>
+
+        <div style="display: flex; flex-direction: column; align-items: center;justify-content:center; margin-left:200px;">
+            <MudButton Class="btn py-2 px-2 rounded-lg text-white mx-auto" Color="Color.Primary" Style="background-color: #008cff; font-weight: bold; color: white; margin-right: 5px;" @onclick="Refund">Refund</MudButton>
+            <MudText Typo="Typo.h5" Class="text-center" GutterBottom="true">Refund ID # @returnID</MudText>
+        </div>
+    </div>
+</div>
+
+@code {
+    
+}

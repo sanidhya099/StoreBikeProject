@@ -1,0 +1,31 @@
+﻿
+<div>
+    <div>
+        <MudDivider Class="my-2" />
+        <MudNavLink Href="" Match="NavLinkMatch.All" Icon="@Icons.Material.Filled.Home">Receiving</MudNavLink>
+        <MudNavGroup Title="SalesReturns" Expanded="@isSalesAndReturnsOpen" Icon="@Icons.Material.Filled.Add">
+            <MudNavLink Href="sale" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.List">Sale</MudNavLink>
+            <MudNavLink Href="returns" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.List">Returns</MudNavLink>
+        </MudNavGroup>
+        <MudNavGroup Title="Servicing" Expanded="true" Icon="@Icons.Material.Filled.Add">
+            <MudNavLink Href="registerjob" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.List">Register new job</MudNavLink>
+            <MudNavLink Href="servicepart" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.List">Service Part</MudNavLink>
+        </MudNavGroup>
+    </div>
+</div>
+
+
+@code {
+    private bool collapseNavMenu = true;
+    private bool isSalesAndReturnsOpen = true;
+    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+    private void ToggleSalesAndReturns()
+    {
+        isSalesAndReturnsOpen = !isSalesAndReturnsOpen;
+    }
+}

@@ -1,0 +1,81 @@
+﻿
+label, input {
+    font-size: 1rem;
+    text-wrap: nowrap;
+    margin-top: auto 0;
+}
+
+label {
+}
+
+.results {
+    width: 100%;
+    display: flex;
+    padding: 0.5rem;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: solid 1px black;
+}
+
+.orderItemArea {
+    max-width: 45%;
+}
+
+textarea {
+    width: 100%;
+    border: solid 1px black;
+}
+
+input[type=number] {
+    height: 2rem;
+    width: 3rem;
+    text-align: right;
+}
+
+input[type=text] {
+    border: 1px solid black;
+    border-radius: 0.25rem;
+    padding: 2px;
+    margin-left: 20px;
+    height: 2rem;
+    width: 100%;
+    text-align: right;
+}
+
+/* No spin buttons */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button, input[type=number] {
+    /* Chrome */
+    -webkit-appearance: none;
+    /* Firefox */
+    -moz-appearance: textfield;
+}
+
+
+@media (max-width: 1200px) {
+    article {
+        display: flex;
+        flex-direction: column;
+    }
+    .orderItemArea {
+        max-width: 100%;
+    }
+
+    .customersArea {
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 1200px) {
+    article {
+        justify-content: space-around;
+        display: flex;
+        flex-direction: row;
+    }
+    .orderItemArea {
+        max-width: 45%;
+    }
+    .customersArea {
+        max-width: 45%;
+    }
+}

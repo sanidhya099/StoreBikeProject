@@ -1,0 +1,180 @@
+﻿@page "/"
+@rendermode InteractiveServer
+
+<PageTitle>E-Bike Service Management System</PageTitle>
+
+<h1>Receiving</h1>
+
+<div>
+    <MudButton Class="receive-button mb-4 mt-8" @onclick="Unordered">UnorderedPurchaseItem</MudButton>
+</div>
+<div style="display: flex; flex-direction:column; height: 100%;">
+    <h4>Orders</h4>
+    <MudTable Items="@outstandingOrdersData" Class="table-bordered">
+        <HeaderContent>
+            <MudTh>POID</MudTh>
+            <MudTh>Date</MudTh>
+            <MudTh>Vendor</MudTh>
+            <MudTh>Contact</MudTh>
+            <MudTh>Action</MudTh>
+        </HeaderContent>
+        <RowTemplate>
+            <MudTd>@context.PurchaseOrderID</MudTd>
+            <MudTd>@context.OrderDate</MudTd>
+            <MudTd>@context.Vendor.VendorName</MudTd>
+            <MudTd>@context.Vendor.Phone</MudTd>
+            <MudTd>
+                <span class="view-order" @onclick="()=>TogglePurchaseOrderOpen(context)">View Order</span>
+            </MudTd>
+        </RowTemplate>
+    </MudTable>
+    @if (_isOrderOpen)
+    {
+        <div class="d-flex flex-column p-8">
+            @if (orderDetail != null && orderDetail.Count() != 0)
+            {
+                <div>
+                    <MudGrid Class="center-content flex flex-row justify-center items-center mt-4 mb-2 gap-4">
+                        <MudText Typo="Typo.h6" GutterBottom="true">PO #  @selectedPO.PurchaseOrderID</MudText>
+                        <MudText Typo="Typo.h6" GutterBottom="true">
+                            @selectedPO.Vendor.VendorName
+                        </MudText>
+                        <MudText Typo="Typo.h6" GutterBottom="true">
+                            Contact Phone:  @selectedPO.Vendor.Phone
+
+                        </MudText>
+                    </MudGrid>
+                </div>
+                <MudButton Class="receive-button mb-4 mt-8" @onclick="ToggleReturnOpen">Return Items</MudButton>
+                <MudTable Items="@orderDetail" Class="table-bordered">
+                    <HeaderContent>
+                        <MudTh>PartID</MudTh>
+                        <MudTh>Description</MudTh>
+                        <MudTh>Ordered</MudTh>
+                        <MudTh>Stored</MudTh>
+                        <MudTh>RecQty</MudTh>
+                    </HeaderContent>
+                    <RowTemplate>
+                        <MudTd>@context.PartID</MudTd>
+                        <MudTd>@context.Description</MudTd>
+                        <MudTd>@context.OQty</MudTd>
+                        <MudTd>@context.OStd</MudTd>
+                        <MudTd class="px-4" style="width: 90px; text-align: center;">
+                            <input type="number" @bind="@context.RecQty" />
+                        </MudTd>
+                    </RowTemplate>
+                </MudTable>
+                <div class="pt-4 d-flex flex-row gap-3 items-center">
+                    <MudButton Class="receive-button"
+                               @onclick="()=>Receive(selectedPO)">Receive</MudButton>
+                    <div class="d-flex flex-row gap-3 align-items-center">
+                        <MudButton Class="receive-button"
+                                   @onclick="()=>ForceClose()">Force Close</MudButton>
+                        <textarea type="text" style="padding:8px;margin-top:auto;margin-bottom:auto; height:28px;" placeholder="-- Force Close Reason --" @bind=@forcedCloseReason />
+                    </div>
+                </div>
+                @if (_isReturnOpen)
+                {
+                    <div class="d-flex flex-column p-8" style="margin-top 3rem;">
+                        @if (orderDetail != null && orderDetail.Count() != 0)
+                        {
+                            <hr style="width: 100%; color: dimgray; height: 2px;" />
+                            <h5>Return Items</h5>
+                            <MudTable Items="@returnData" Class="table-bordered">
+                                <HeaderContent>
+                                    <MudTh>PartID</MudTh>
+                                    <MudTh>Description</MudTh>
+                                    <MudTh>Ordered</MudTh>
+                                    <MudTh>Stored</MudTh>
+                                    <MudTh>RecQty</MudTh>
+                                </HeaderContent>
+                                <RowTemplate>
+                                    <MudTd>@context.ReceiveOrderID</MudTd>
+                                    <MudTd>@context.PurchaseOrderDetailID</MudTd>
+                                    <MudTd>@context.ItemDescription</MudTd>
+                                    <MudTd class="px-4" style="width: 90px; text-align: center;">
+                                        <input type="number" @bind="@context.Quantity" />
+                                    </MudTd>
+                                    <MudTd>@context.Reason</MudTd>
+                                    <MudTd>@context.VendorPartNumber</MudTd>
+                                </RowTemplate>
+                            </MudTable>
+                        }
+                        else
+                        {
+                            <MudText Typo="Typo.h6" GutterBottom="true">There is no data</MudText>
+                        }
+                        <MudTable Items="@returnData" Class="table-bordered">
+                            <HeaderContent>
+                                <MudTh>Item Description</MudTh>
+                                <MudTh>Qty</MudTh>
+                                <MudTh>Vendor Part ID</MudTh>
+                                <MudTh>Reason</MudTh>
+                            </HeaderContent>
+                            <RowTemplate>
+                                <MudTd><label>@context.ItemDescription</label></MudTd>
+                                <MudTd><label>@context.Quantity</label></MudTd>
+                                <MudTd><label>@context.Reason</label></MudTd>
+                                <MudTd><label>@context.VendorPartNumber</label></MudTd>
+                            </RowTemplate>
+                        </MudTable>
+                        <div style="margin-top:20px;display:flex;flex-direction:row">
+                            <div style="display:flex;flex-direction:row;margin-left:10px">
+                                <button class="btn py-2 px-4 rounded-lg text-black" style="background-color: #ff7000; font-weight: bold;" @onclick="@(() => Return(selectedPO))">Return</button>
+                                <button class="btn py-2 px-4 rounded-lg text-black ml-4" style="background-color: #cccccc; font-weight: bold;" @onclick="ClearReturn">Clear</button>
+                            </div>
+                            <div style="display:flex;flex-direction:row;margin-left:30px">
+                                <MudTextField @bind-Value="@returnItemDescription" Placeholder="--Description--" Class="text-center" style="margin-right: 15px;" />
+                                <MudTextField @bind-Value="@returnVendorPartNumber" Placeholder="--Vendor Part Number--" Class="text-center" style="margin-right: 15px;" />
+                                <MudTextField @bind-Value="@returnReason" Placeholder="--Reason--" Class="text-center" style="margin-right: 15px;" />
+                                <MudTextField @bind-Value="@returnQty" Placeholder="--Qty--" Class="text-center" />
+                            </div>
+
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <MudText Typo="Typo.h6" GutterBottom="true">There is no data</MudText>
+            }
+            <MudButton OnClick="()=>TogglePurchaseOrderOpen(null)" Class="ml-auto mr-n3 mb-1" Color="Color.Error">Close</MudButton>
+        </div>
+    }
+    
+    @if (_isUnorderedOpen)
+    {
+        <div class="d-flex flex-column p-8" style="margin-top 3rem;">
+            <h4>Receive Unordered Items</h4>
+            <MudTable Items="@unorderedData" Class="table-bordered">
+                <HeaderContent>
+                    <MudTh style="width:180px;"></MudTh>
+                    <MudTh>Item Description</MudTh>
+                    <MudTh>Vendor Part ID</MudTh>
+                    <MudTh>Qty</MudTh>
+                </HeaderContent>
+                <RowTemplate>
+                    <MudTd class="pl-4" style="display: flex; justify-content: flex-start;">
+                        <button class="btn py-2 px-4 rounded-lg text-black" style="background-color: #cccccc; font-weight: bold;" @onclick="() => DeleteUnordered(context)">Delete</button>
+                    </MudTd>
+                    <MudTd><label>@context.Description</label></MudTd>
+                    <MudTd><label>@context.VendorPartNumber</label></MudTd>
+                    <MudTd><label>@context.Quantity</label></MudTd>
+                </RowTemplate>
+            </MudTable>
+            <div style="margin-top:20px;display:flex;flex-direction:row">
+                <div style="display:flex;flex-direction:row;margin-left:10px">
+                    <button class="btn py-2 px-4 rounded-lg text-black" style="background-color: #cccccc; font-weight: bold;" @onclick="ReceiveUnordered">Insert</button>
+                    <button class="btn py-2 px-4 rounded-lg text-black ml-4" style="background-color: #cccccc; font-weight: bold;" @onclick="ClearUnordered">Clear</button>
+                </div>
+                <div style="display:flex;flex-direction:row;margin-left:30px">
+                    <MudTextField @bind-Value="@unorderedItemDescription" Placeholder="--Description--" Class="text-center" style="margin-right: 15px;" />
+                    <MudTextField @bind-Value="@unorderedVendorPartNumber" Placeholder="--VendorPartNumber--" Class="text-center" style="margin-right: 15px;" />
+                    <MudTextField @bind-Value="@unorderedQty" Placeholder="--Qty--" Class="text-center" />
+                </div>
+
+            </div>
+            <MudButton OnClick="()=>ToggleUnorderOpen()" Class="ml-auto mr-n3 mb-1" Color="Color.Error">Close</MudButton>
+        </div>
+    }
+</div>

@@ -1,0 +1,25 @@
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\SalesAndReturnSystem\bin\Debug\net8.0\SalesAndReturnSystem.deps.json
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\SalesAndReturnSystem\bin\Debug\net8.0\SalesAndReturnSystem.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\SalesAndReturnSystem\bin\Debug\net8.0\SalesAndReturnSystem.pdb
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\SalesAndReturnSystem\obj\Debug\net8.0\SalesAndReturnSystem.csproj.AssemblyReference.cache
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\SalesAndReturnSystem\obj\Debug\net8.0\SalesAndReturnSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\SalesAndReturnSystem\obj\Debug\net8.0\SalesAndReturnSystem.AssemblyInfoInputs.cache
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\SalesAndReturnSystem\obj\Debug\net8.0\SalesAndReturnSystem.AssemblyInfo.cs
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\SalesAndReturnSystem\obj\Debug\net8.0\SalesAndReturnSystem.csproj.CoreCompileInputs.cache
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\SalesAndReturnSystem\obj\Debug\net8.0\SalesAndReturnSystem.sourcelink.json
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\SalesAndReturnSystem\obj\Debug\net8.0\SalesAndReturnSystem.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\SalesAndReturnSystem\obj\Debug\net8.0\refint\SalesAndReturnSystem.dll
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\SalesAndReturnSystem\obj\Debug\net8.0\SalesAndReturnSystem.pdb
+C:\Users\phexyaa\source\repos\Freelancer\EBikeWebApp\SalesAndReturnSystem\obj\Debug\net8.0\ref\SalesAndReturnSystem.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\SalesAndReturnSystem\bin\Debug\net8.0\SalesAndReturnSystem.deps.json
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\SalesAndReturnSystem\bin\Debug\net8.0\SalesAndReturnSystem.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\SalesAndReturnSystem\bin\Debug\net8.0\SalesAndReturnSystem.pdb
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\SalesAndReturnSystem\obj\Debug\net8.0\SalesAndReturnSystem.csproj.AssemblyReference.cache
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\SalesAndReturnSystem\obj\Debug\net8.0\SalesAndReturnSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\SalesAndReturnSystem\obj\Debug\net8.0\SalesAndReturnSystem.AssemblyInfoInputs.cache
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\SalesAndReturnSystem\obj\Debug\net8.0\SalesAndReturnSystem.AssemblyInfo.cs
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\SalesAndReturnSystem\obj\Debug\net8.0\SalesAndReturnSystem.csproj.CoreCompileInputs.cache
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\SalesAndReturnSystem\obj\Debug\net8.0\SalesAndReturnSystem.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\SalesAndReturnSystem\obj\Debug\net8.0\refint\SalesAndReturnSystem.dll
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\SalesAndReturnSystem\obj\Debug\net8.0\SalesAndReturnSystem.pdb
+C:\Users\ssharma107\Downloads\eBikeManagmentWebApp (1)\SalesAndReturnSystem\obj\Debug\net8.0\ref\SalesAndReturnSystem.dll

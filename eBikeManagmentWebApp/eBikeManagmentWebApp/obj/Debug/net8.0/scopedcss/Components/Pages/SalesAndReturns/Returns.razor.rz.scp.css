@@ -1,0 +1,43 @@
+.tableButton[b-pyq6x4zhiu] {
+    height: 1rem;
+    width: 1rem;
+    border: solid 1px black;
+    border-radius:0.25rem;
+    margin: 0.25rem;
+}
+label[b-pyq6x4zhiu], input[b-pyq6x4zhiu]{
+    font-size: 1.25rem;
+}
+.results[b-pyq6x4zhiu] {
+    width: 100%;
+    display: flex;
+    padding: 0.5rem;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: solid 1px black;
+}
+
+input[type=number][b-pyq6x4zhiu] {
+    height: 2rem;
+    width: 3rem;
+    text-align: right;
+}
+
+input[type=text][b-pyq6x4zhiu] {
+    border: 1px solid black;
+    border-radius: 0.25rem;
+    padding: 2px;
+    margin-left: 20px;
+    height: 2rem;
+    width: 100%;
+    text-align:right;
+}
+
+/* No spin buttons */
+input[b-pyq6x4zhiu]::-webkit-outer-spin-button,
+input[b-pyq6x4zhiu]::-webkit-inner-spin-button, input[type=number][b-pyq6x4zhiu] {
+    /* Chrome */
+    -webkit-appearance: none;
+    /* Firefox */
+    -moz-appearance: textfield;
+}

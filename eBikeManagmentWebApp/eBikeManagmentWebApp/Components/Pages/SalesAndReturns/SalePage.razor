@@ -1,0 +1,96 @@
+﻿@page "/sale"
+@rendermode InteractiveServer
+
+<PageTitle>Create Sale</PageTitle>
+<h1>Sale</h1>
+<div class="mt-8 mb-4" style="display: flex; flex-wrap: wrap; align-items:center;">
+    <div style="flex: 1; margin-right: 20px;">
+        <select @bind=@categoryID @bind:after=@HandleCategorySelect>
+            <option value="-1">--  Select Category  --</option>
+            @foreach (var item in categories)
+            {
+                <option value="@item.CategoryID">
+                    @item.Description
+                </option>
+            }
+        </select>
+    </div>
+    <div style="flex: 1; margin-right: 20px;">
+        <select @bind=@partID @bind:after=@HandlePartSelect disabled="@(!(categoryID != -1))">
+            <option value="-1">--  Select Part  --</option>
+            @foreach (var item in filteredParts)
+            {
+                <option value="@item.PartID">
+                    @item.Description
+                </option>
+            }
+        </select>
+    </div>
+    <input type="number" @bind="@selectedItemQty" class="ml-2 p-2 border-1" style="margin-right: 5px; width: 80px; text-justify:right;" />
+
+    <MudButton Class="btn py-2 ml-4 px-2 rounded-lg text-white" Color="Color.Primary" Style="background-color: #008cff; font-weight: bold;color:white; margin-right: 5px;" @onclick="AddItemToTable">+Add</MudButton>
+</div>
+
+
+<MudTable Items="@tableItems" Class="table-bordered">
+    <HeaderContent>
+        <MudTh style="width:50px;">Item</MudTh>
+        <MudTh style="width:200px;">Qty</MudTh>
+        <MudTh style="width:50px;">Price</MudTh>
+        <MudTh style="width:50px;">Total</MudTh>
+    </HeaderContent>
+    <RowTemplate>
+        <MudTd>@context.Item</MudTd>
+        <MudTd style="display: flex; justify-content: center; align-items: center;">
+            <input type="text" style="width: 40px;text-align:right; border-bottom:solid 1px black;" @bind="@context.Qty" @bind:after="@(()=> OnQtyChangeHandler(context))" />
+            <img src="images/Recycle.png" alt="Delete" style="cursor: pointer; margin-left: 10px;" @onclick="() =>HandleDelete(context)" />
+        </MudTd>
+        <MudTd>@context.Price</MudTd>
+        <MudTd>@Math.Round(context.Total, 2)</MudTd>
+    </RowTemplate>
+</MudTable>
+
+<div style="margin:30px; display: flex; flex-wrap: wrap;width:80%;justify-content: space-between;">
+    <div class="center-content" style="display:flex;flex-direction:column;">
+        <MudButton Class="btn py-2 ml-4 px-2 rounded-lg text-white" Color="Color.Primary" Style="background-color: #009900; font-weight: bold;color:white;padding:60px; margin-right: 5px;" @onclick="CheckOut">CheckOut</MudButton>
+        <div class="mt-10 flex flex-row"><div>Sale Invoice #</div><div>@saleID</div></div>
+        <MudRadioGroup @bind-Value="@selectedPaymentOption" ReadOnly="ReadOnly">
+            <MudRadio Value="@("Radio 1")">Cash</MudRadio>
+            <MudRadio Value="@("Radio 2")">Credit</MudRadio>
+            <MudRadio Value="@("Radio 3")">Debit</MudRadio>
+        </MudRadioGroup>
+    </div>
+    <div class="flex-col w-full justify-center items-center" style="width: 300px;">
+        <div class="results">
+            <label>Subtotal</label>
+            <label>@subTotal</label>
+        </div>
+        <div class="results">
+            <label>Tax %</label>
+            <input style="border-bottom: solid 1px black;" type="number" onwheel="this.blur()" @bind=@tax @bind:after="OnTaxValueChangeHandler" />
+        </div>
+        <div class="results">
+            <label>Discount %</label>
+            <input style="border-bottom: solid 1px black;" type="number" onwheel="this.blur()" @bind="@discount" @bind:after="OnDiscountValueChangeHandler" />
+        </div>
+        <div class="results">
+            <label>Total</label>
+            <label>@total</label>
+        </div>
+    </div>
+    <div class="flex-col w-full" style="width:300px;">
+        <input type="text" placeholder="--Coupon ID--" @bind=@couponCode @bind:after=@VerifyCoupon />
+        <div style="margin:4px;">
+            <div style="display:flex;  justify-content:right">
+                <label>Coupon Value:</label>
+                <label style="margin-left: 3rem;">@discount</label>
+            </div>
+            <div style="display:flex; justify-content:right">
+                <MudButton Class="btn py-2 ml-4 px-2 rounded-lg" Color="Color.Primary" Style=" bold;color:black; padding:8px;margin-top: 1rem; border: solid 1px black;" @onclick="VerifyCoupon">Verify Coupon</MudButton>
+                <MudButton Class="btn py-2 ml-4 px-2 rounded-lg" Color="Color.Primary" Style=" bold;color:black; padding:8px;margin-top: 1rem; border: solid 1px black;" @onclick="ClearTable">Start Over</MudButton>
+            </div>
+        </div>
+    </div>
+
+</div>
+

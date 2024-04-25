@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = eBikeManagmentWebApp
+build_property.RootNamespace = eBikeManagmentWebApp
+build_property.ProjectDir = C:\Users\ssharma107\source\repos\StoreBikeProject\eBikeManagmentWebApp\eBikeManagmentWebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ssharma107\source\repos\StoreBikeProject\eBikeManagmentWebApp\eBikeManagmentWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ssharma107/source/repos/StoreBikeProject/eBikeManagmentWebApp/eBikeManagmentWebApp/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ssharma107/source/repos/StoreBikeProject/eBikeManagmentWebApp/eBikeManagmentWebApp/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ssharma107/source/repos/StoreBikeProject/eBikeManagmentWebApp/eBikeManagmentWebApp/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ssharma107/source/repos/StoreBikeProject/eBikeManagmentWebApp/eBikeManagmentWebApp/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ssharma107/source/repos/StoreBikeProject/eBikeManagmentWebApp/eBikeManagmentWebApp/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ssharma107/source/repos/StoreBikeProject/eBikeManagmentWebApp/eBikeManagmentWebApp/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-7zvmii931c
+
+[C:/Users/ssharma107/source/repos/StoreBikeProject/eBikeManagmentWebApp/eBikeManagmentWebApp/Components/Pages/Receiving/Receiving.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZWNlaXZpbmdcUmVjZWl2aW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-wd57yzly1u
+
+[C:/Users/ssharma107/source/repos/StoreBikeProject/eBikeManagmentWebApp/eBikeManagmentWebApp/Components/Pages/SalesAndReturns/Returns.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTYWxlc0FuZFJldHVybnNcUmV0dXJucy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-pyq6x4zhiu
+
+[C:/Users/ssharma107/source/repos/StoreBikeProject/eBikeManagmentWebApp/eBikeManagmentWebApp/Components/Pages/SalesAndReturns/SalePage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTYWxlc0FuZFJldHVybnNcU2FsZVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-d16xgb9098
+
+[C:/Users/ssharma107/source/repos/StoreBikeProject/eBikeManagmentWebApp/eBikeManagmentWebApp/Components/Pages/Servicing/RegisterJob.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTZXJ2aWNpbmdcUmVnaXN0ZXJKb2IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-grcehwj468
+
+[C:/Users/ssharma107/source/repos/StoreBikeProject/eBikeManagmentWebApp/eBikeManagmentWebApp/Components/Pages/Servicing/ServiceJob.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTZXJ2aWNpbmdcU2VydmljZUpvYi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-p4f8cgb7ps
